@@ -141,7 +141,7 @@ classDiagram
 ---
 ## 👨‍💻 Author
 
-- 🎓 Developed by: *Ch Sai Manideep*
+- 🎓 Developed by: *Salapu Udhaya Sri Kalyani*
 - 🏫 Mini Project
 - 🎯 Tech: C language, File Handling, Linked Lists, Pointers
 
